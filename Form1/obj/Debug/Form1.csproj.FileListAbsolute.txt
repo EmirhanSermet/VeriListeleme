@@ -13,3 +13,13 @@ C:\Users\Emirhan\Desktop\Ödevler\Veri Tabanı\Form1\bin\Debug\Forms1.exe
 C:\Users\Emirhan\Desktop\Ödevler\Veri Tabanı\Form1\bin\Debug\Forms1.pdb
 C:\Users\Emirhan\Desktop\Ödevler\Veri Tabanı\Form1\obj\Debug\Forms1.exe
 C:\Users\Emirhan\Desktop\Ödevler\Veri Tabanı\Form1\obj\Debug\Forms1.pdb
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\bin\Debug\Forms1.exe.config
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\bin\Debug\Forms1.exe
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\bin\Debug\Forms1.pdb
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\OtobusKartApp.Form1.resources
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\Forms1.Properties.Resources.resources
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\Forms1.exe
+C:\Users\Emirhan\Documents\Github Destkop\Veri Tabanı\Form1\obj\Debug\Forms1.pdb

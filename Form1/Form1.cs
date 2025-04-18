@@ -14,8 +14,6 @@ namespace OtobusKartApp
         {
             InitializeComponent();
         }
-
-        // ✅ Veriyi veritabanına ekleyen metod
         private void btnEkle_Click(object sender, EventArgs e)
         {
             try
@@ -28,13 +26,10 @@ namespace OtobusKartApp
 
                     using (SqlCommand cmd = new SqlCommand(query, con))
                     {
-                        // Kullanıcı girişlerini al
                         string isim = txtIsim.Text;
                         string soyisim = txtSoyisim.Text;
                         DateTime dogumTarihi = dtpDogumTarihi.Value; // DateTimePicker kontrolünden tarih al
                         bool ogrenciMi = chkOgrenci.Checked; // CheckBox kontrolünden öğrenci olup olmadığını al
-
-                        // Parametreleri ekle
                         cmd.Parameters.AddWithValue("@Isim", isim);
                         cmd.Parameters.AddWithValue("@Soyisim", soyisim);
                         cmd.Parameters.AddWithValue("@DogumTarihi", dogumTarihi.ToString("yyyy-MM-dd"));
@@ -59,8 +54,6 @@ namespace OtobusKartApp
             }
         }
 
-
-        // ✅ Veriyi listeleyen metod
         private void btnListele_Click(object sender, EventArgs e)
         {
             using (SqlConnection con = new SqlConnection(connectionString))
